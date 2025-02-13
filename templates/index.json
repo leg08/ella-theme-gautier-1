@@ -1371,6 +1371,127 @@
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50
       }
+    },
+    "instagram_special_txc6Ub": {
+      "type": "instagram-special",
+      "blocks": {
+        "instagram_QLAMe9": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "link": ""
+          }
+        },
+        "instagram_aWcAiC": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "link": ""
+          }
+        },
+        "instagram_QkP93z": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "link": ""
+          }
+        },
+        "instagram_yghbec": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "link": ""
+          }
+        },
+        "instagram_HBefj6": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "link": ""
+          }
+        },
+        "instagram_fGQqre": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "link": ""
+          }
+        },
+        "instagram_meqxFB": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "link": ""
+          }
+        },
+        "instagram_zLwM6z": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "link": ""
+          }
+        },
+        "instagram_49Xh4a": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "instagram_QLAMe9",
+        "instagram_aWcAiC",
+        "instagram_QkP93z",
+        "instagram_yghbec",
+        "instagram_HBefj6",
+        "instagram_fGQqre",
+        "instagram_meqxFB",
+        "instagram_zLwM6z",
+        "instagram_49Xh4a"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "display_border_top": false,
+        "border_color": "#e3e3e3",
+        "instagram_bg": "#fafafa",
+        "instagram_bg_gradient": "",
+        "instagram_title": "#Ella On Instagram",
+        "color_title": "#232323",
+        "fontsize_title": 16,
+        "fontsize_title_mb": 16,
+        "margin_bottom_title": 5,
+        "instagram_des": "Phasellus lorem malesuada ligula pulvinar commodo maecenas",
+        "color_des": "#3c3c3c",
+        "fontsize_des": 16,
+        "margin_bottom_des": 0,
+        "title_align": "center",
+        "display_icon_more": true,
+        "icon_color": "#fff",
+        "border_color_icon": "#232323",
+        "bg_color_icon": "#232323",
+        "bg_color_gradient_icon": "",
+        "display_instagram_button": true,
+        "instagram_button_text": "View Gallery",
+        "type_button_more": "load",
+        "instagram_button_link": "",
+        "color_button": "#fff",
+        "border_color_button": "#232323",
+        "bg_color_button": "#232323",
+        "bg_color_gradient_button": "",
+        "maxwidth_button": 80,
+        "instagram_style": "layout__1",
+        "instagram_grid_gap": 15,
+        "items_border_radius": 6,
+        "type_instagram_by_gallery": "popup_image",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50
+      }
     }
   },
   "order": [
@@ -1380,6 +1501,7 @@
     "customer_review_block_pJnejq",
     "custom_image_banner_PY8wDj",
     "custom_image_banner_gtfTqF",
-    "instagram_3P8KCE"
+    "instagram_3P8KCE",
+    "instagram_special_txc6Ub"
   ]
 }
