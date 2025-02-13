@@ -150,6 +150,7 @@
           "type": "Text",
           "settings": {
             "icon_type": "image",
+            "image": "shopify://shop_images/brief-removebg-preview_1.png",
             "icon": "",
             "icon_width": 7,
             "icon_height": 7,
