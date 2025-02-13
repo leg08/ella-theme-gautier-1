@@ -1492,6 +1492,105 @@
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50
       }
+    },
+    "product_tab_block_EaR73p": {
+      "type": "product-tab-block",
+      "blocks": {
+        "product_tabs_JKVXqd": {
+          "type": "ProductTabs",
+          "settings": {
+            "title": "Womens",
+            "collection": ""
+          }
+        },
+        "product_tabs_MTgXta": {
+          "type": "ProductTabs",
+          "settings": {
+            "title": "Womens",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_tabs_JKVXqd",
+        "product_tabs_MTgXta"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "product_bg": "#fff",
+        "product_bg_gradient": "",
+        "product_block_layout": "grid",
+        "product_block_title": "",
+        "fontsize_title": 16,
+        "fontsize_title_mb": 16,
+        "mg_bottom_title": 12,
+        "enable_border_title": true,
+        "border_color_title": "#232323",
+        "enable_border_title2": false,
+        "border_color_title2": "#232323",
+        "color_title": "#232323",
+        "title_align": "center",
+        "product_block_limit": 8,
+        "view_all_style": "style_1",
+        "view_all": "",
+        "font_weight_view_all": "400",
+        "mg_bottom_view": 30,
+        "link_view_all": "",
+        "color_view_all": "#3c3c3c",
+        "image_behavior": "none",
+        "product_block_per_row": "3",
+        "product_block_infinite_scroll": true,
+        "min_width_button": "",
+        "product_block_dots": false,
+        "product_block_dots_mb": true,
+        "product_block_arrows": true,
+        "product_block_arrows_mb": false,
+        "product_block_arrows_custom_position": false,
+        "product_block_progress_bar": false,
+        "enable_infinite": true,
+        "product_block_show": "4.5",
+        "product_block_per_view": "4",
+        "show_half": true,
+        "scroll_height": 4,
+        "scroll_track_bg": "#f1f1f1",
+        "scroll_thumb_color": "#000",
+        "scroll_thumb_hover_color": "#444",
+        "enable_hover_drag_icon": true,
+        "position": "left",
+        "width_banner": 20,
+        "tab_title_style": "style_1",
+        "mg_bottom_title_tab": 24,
+        "type_tab_font": "font_1",
+        "separation": true,
+        "style_separation": "style1",
+        "color_separation": "#232323",
+        "enable_scroll_title": true,
+        "fontsize_tab": 14,
+        "fontsize_tab_mb": 14,
+        "font_weight_tab": "700",
+        "font_weight_active_tab": "700",
+        "spacing_between_title": 24,
+        "line_height_tab": 20,
+        "line_height_tab_mobile": 24,
+        "border_tab_radius": 3,
+        "min_width_tab": 5,
+        "border_width_tab": 3,
+        "tab_align": "center",
+        "color_tab": "#232323",
+        "border_color_tab": "",
+        "bg_color_tab": "#fff",
+        "bg_color_gradient_tab": "",
+        "color_tab_active": "#232323",
+        "bg_color_tab_active": "#f8f8f8",
+        "bg_color_gradient_tab_active": "",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50
+      }
     }
   },
   "order": [
@@ -1502,6 +1601,7 @@
     "custom_image_banner_PY8wDj",
     "custom_image_banner_gtfTqF",
     "instagram_3P8KCE",
-    "instagram_special_txc6Ub"
+    "instagram_special_txc6Ub",
+    "product_tab_block_EaR73p"
   ]
 }
