@@ -987,7 +987,7 @@
             "image_behavior": "none",
             "enable_item_1": true,
             "item_width_1": "50%",
-            "item_spacing_1": 50,
+            "item_spacing_1": 0,
             "sub_title_1": "",
             "color_sub_title_1": "#ffffff",
             "title_1": "Lorem",
@@ -1007,7 +1007,7 @@
             "btn_icon_1": "",
             "enable_item_2": true,
             "item_width_2": "50%",
-            "item_spacing_2": 50,
+            "item_spacing_2": 0,
             "sub_title_2": "",
             "color_sub_title_2": "#ffffff",
             "title_2": "Lorem",
@@ -1096,7 +1096,7 @@
         "mg_top_mobile": 50,
         "mg_bottom_desktop": 5,
         "mg_bottom_tablet": 5,
-        "mg_bottom_mobile": 0
+        "mg_bottom_mobile": 5
       }
     },
     "custom_image_banner_gtfTqF": {
@@ -1105,7 +1105,7 @@
         "small_img_dgYjXj": {
           "type": "smallImg",
           "settings": {
-            "item_width": "50%",
+            "item_width": "100%",
             "item_grid_gap": 15,
             "item_border_radirus": 0,
             "title_align": "left",
@@ -1168,7 +1168,7 @@
             "bg_color_button_hover_2": "#232323",
             "bg_gradient_color_button_hover_2": "",
             "btn_icon_2": "",
-            "enable_item_3": true,
+            "enable_item_3": false,
             "item_width_3": "50%",
             "item_spacing_3": 0,
             "sub_title_3": "",
@@ -1188,7 +1188,7 @@
             "bg_color_button_hover_3": "#232323",
             "bg_gradient_color_button_hover_3": "",
             "btn_icon_3": "",
-            "enable_item_4": true,
+            "enable_item_4": false,
             "item_width_4": "50%",
             "item_spacing_4": 0,
             "sub_title_4": "",
@@ -1209,56 +1209,10 @@
             "bg_gradient_color_button_hover_4": "",
             "btn_icon_4": ""
           }
-        },
-        "large_img_GAKg4z": {
-          "type": "largeImg",
-          "settings": {
-            "item_width": "50%",
-            "item_border_radirus": 0,
-            "item_spacing": 0,
-            "title_align": "left",
-            "align_items": "bottom",
-            "align_items_spacing": 30,
-            "align_items_spacing_lr": 45,
-            "sub_title": "",
-            "border_sub_title": false,
-            "color_sub_title": "#ffffff",
-            "fontsize_sub_title": 18,
-            "mg_bottom_sub_title": 10,
-            "title": "Lorem De Dorus",
-            "color_title": "#ffffff",
-            "fontsize_title": 24,
-            "fontsize_title_mb": 20,
-            "mg_bottom_title": 10,
-            "mg_bottom_title_mb": 5,
-            "enable_style_italic": false,
-            "des": "Nullam aliquet vestibulum augue non varius.",
-            "color_des": "#ffffff",
-            "fontsize_des": 16,
-            "mg_bottom_des": 20,
-            "mg_bottom_des_mb": 20,
-            "button": "Shop Now",
-            "link": "",
-            "fontsize_btn": 16,
-            "button_width": 190,
-            "color_button": "#fff",
-            "border_color_button": "#232323",
-            "bg_color_button": "#232323",
-            "bg_gradient_color_button": "",
-            "color_button_hover": "#fff",
-            "border_color_button_hover": "#232323",
-            "bg_color_button_hover": "#232323",
-            "bg_gradient_color_button_hover": "",
-            "bg_opacity_button": 1,
-            "btn_text_transform": "uppercase",
-            "btn_icon": "",
-            "image_behavior": "none"
-          }
         }
       },
       "block_order": [
-        "small_img_dgYjXj",
-        "large_img_GAKg4z"
+        "small_img_dgYjXj"
       ],
       "settings": {
         "container": "container",
