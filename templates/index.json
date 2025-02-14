@@ -187,12 +187,13 @@
         "text_nb47DQ": {
           "type": "Text",
           "settings": {
-            "icon_type": "text",
+            "icon_type": "image",
+            "image": "shopify://shop_images/facebook-new-removebg-preview_1.png",
             "icon": "",
             "icon_width": 30,
             "icon_height": 30,
             "icon_mg_right": 20,
-            "text": "400,000+ fans<br><br>",
+            "text": "400,000+ fans",
             "font_size_text": 16,
             "font_size_text_mb": 16,
             "mg_bottom_text": 0,
@@ -205,12 +206,13 @@
         "text_LtaKp7": {
           "type": "Text",
           "settings": {
-            "icon_type": "text",
+            "icon_type": "image",
+            "image": "shopify://shop_images/whatsapp-removebg-preview_1.png",
             "icon": "",
             "icon_width": 30,
             "icon_height": 30,
             "icon_mg_right": 20,
-            "text": "Need help?<br><br>",
+            "text": "Need help?",
             "font_size_text": 16,
             "font_size_text_mb": 16,
             "mg_bottom_text": 0,
