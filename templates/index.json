@@ -890,11 +890,12 @@
             "enable_item_1": true,
             "item_width_1": "50%",
             "item_spacing_1": 5,
+            "image_1": "shopify://shop_images/riz-portfolio_64.jpg",
             "sub_title_1": "",
             "color_sub_title_1": "#ffffff",
-            "title_1": "Lorem",
+            "title_1": "",
             "color_title_1": "#ffffff",
-            "des_1": "Nullam aliquet",
+            "des_1": "",
             "color_des_1": "#ffffff",
             "button_1": "",
             "link_1": "",
@@ -910,11 +911,12 @@
             "enable_item_2": true,
             "item_width_2": "50%",
             "item_spacing_2": 5,
+            "image_2": "shopify://shop_images/riz-portfolio_63.jpg",
             "sub_title_2": "",
             "color_sub_title_2": "#ffffff",
-            "title_2": "Lorem",
+            "title_2": "",
             "color_title_2": "#ffffff",
-            "des_2": "Nullam aliquet",
+            "des_2": "",
             "color_des_2": "#ffffff",
             "button_2": "",
             "link_2": "",
@@ -998,11 +1000,12 @@
             "enable_item_1": true,
             "item_width_1": "50%",
             "item_spacing_1": 0,
+            "image_1": "shopify://shop_images/riz-portfolio_65.jpg",
             "sub_title_1": "",
             "color_sub_title_1": "#ffffff",
-            "title_1": "Lorem",
+            "title_1": "",
             "color_title_1": "#ffffff",
-            "des_1": "Nullam aliquet",
+            "des_1": "",
             "color_des_1": "#ffffff",
             "button_1": "",
             "link_1": "",
@@ -1018,6 +1021,7 @@
             "enable_item_2": true,
             "item_width_2": "50%",
             "item_spacing_2": 0,
+            "image_2": "shopify://shop_images/riz-portfolio_66.jpg",
             "sub_title_2": "",
             "color_sub_title_2": "#ffffff",
             "title_2": "Lorem",
@@ -1088,7 +1092,7 @@
         "container": "container",
         "padding_full_width": 0,
         "custom_image_banner_block_swipe_on_mobile": "list",
-        "item_distance": 15,
+        "item_distance": 5,
         "custom_image_banner_bg": "#ffffff",
         "custom_image_banner_bg_gradient": "",
         "title_align": "center",
@@ -1141,11 +1145,12 @@
             "enable_item_1": true,
             "item_width_1": "50%",
             "item_spacing_1": 50,
+            "image_1": "shopify://shop_images/riz-portfolio_68.jpg",
             "sub_title_1": "",
             "color_sub_title_1": "#ffffff",
-            "title_1": "Lorem",
+            "title_1": "",
             "color_title_1": "#ffffff",
-            "des_1": "Nullam aliquet",
+            "des_1": "",
             "color_des_1": "#ffffff",
             "button_1": "",
             "link_1": "",
@@ -1161,11 +1166,12 @@
             "enable_item_2": true,
             "item_width_2": "50%",
             "item_spacing_2": 50,
+            "image_2": "shopify://shop_images/riz-portfolio_67.jpg",
             "sub_title_2": "",
             "color_sub_title_2": "#ffffff",
-            "title_2": "Lorem",
+            "title_2": "",
             "color_title_2": "#ffffff",
-            "des_2": "Nullam aliquet",
+            "des_2": "",
             "color_des_2": "#ffffff",
             "button_2": "",
             "link_2": "",
@@ -1183,9 +1189,9 @@
             "item_spacing_3": 0,
             "sub_title_3": "",
             "color_sub_title_3": "#ffffff",
-            "title_3": "Lorem",
+            "title_3": "",
             "color_title_3": "#ffffff",
-            "des_3": "Nullam aliquet",
+            "des_3": "",
             "color_des_3": "#ffffff",
             "button_3": "",
             "link_3": "",
@@ -1256,6 +1262,7 @@
           "type": "instagram",
           "settings": {
             "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_17.jpg",
             "link": ""
           }
         },
@@ -1263,6 +1270,7 @@
           "type": "instagram",
           "settings": {
             "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_25.jpg",
             "link": ""
           }
         },
@@ -1270,6 +1278,7 @@
           "type": "instagram",
           "settings": {
             "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_24.jpg",
             "link": ""
           }
         },
@@ -1277,6 +1286,7 @@
           "type": "instagram",
           "settings": {
             "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_22.jpg",
             "link": ""
           }
         },
@@ -1284,6 +1294,7 @@
           "type": "instagram",
           "settings": {
             "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_26.jpg",
             "link": ""
           }
         },
@@ -1291,6 +1302,7 @@
           "type": "instagram",
           "settings": {
             "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_21.jpg",
             "link": ""
           }
         },
@@ -1298,6 +1310,23 @@
           "type": "instagram",
           "settings": {
             "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_23.jpg",
+            "link": ""
+          }
+        },
+        "instagram_c8RmwW": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_28.jpg",
+            "link": ""
+          }
+        },
+        "instagram_VrKnbr": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_18.jpg",
             "link": ""
           }
         }
@@ -1309,7 +1338,9 @@
         "instagram_gWRcXC",
         "instagram_CjYpHh",
         "instagram_BjhctX",
-        "instagram_gfELmJ"
+        "instagram_gfELmJ",
+        "instagram_c8RmwW",
+        "instagram_VrKnbr"
       ],
       "settings": {
         "container": "container",
