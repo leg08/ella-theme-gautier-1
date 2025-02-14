@@ -1476,6 +1476,7 @@
           "type": "instagram",
           "settings": {
             "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_76.jpg",
             "link": ""
           }
         },
@@ -1483,6 +1484,7 @@
           "type": "instagram",
           "settings": {
             "enable": true,
+            "image": "shopify://shop_images/riz-portfolio_77.jpg",
             "link": ""
           }
         }
