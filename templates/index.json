@@ -865,7 +865,7 @@
           "type": "smallImg",
           "settings": {
             "item_width": "100%",
-            "item_grid_gap": 15,
+            "item_grid_gap": 5,
             "item_border_radirus": 0,
             "title_align": "left",
             "align_items": "bottom",
@@ -975,7 +975,7 @@
           "type": "smallImg",
           "settings": {
             "item_width": "100%",
-            "item_grid_gap": 15,
+            "item_grid_gap": 5,
             "item_border_radirus": 0,
             "title_align": "left",
             "align_items": "bottom",
@@ -1120,7 +1120,7 @@
           "type": "smallImg",
           "settings": {
             "item_width": "100%",
-            "item_grid_gap": 15,
+            "item_grid_gap": 5,
             "item_border_radirus": 0,
             "title_align": "left",
             "align_items": "bottom",
