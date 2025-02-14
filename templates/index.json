@@ -373,7 +373,7 @@
           "settings": {
             "item_width": "50%",
             "item_border_radirus": 0,
-            "item_spacing": 0,
+            "item_spacing": 10,
             "image": "shopify://shop_images/riz-portfolio_44.jpg",
             "title_align": "left",
             "align_items": "bottom",
