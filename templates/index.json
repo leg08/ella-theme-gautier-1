@@ -18,7 +18,7 @@
             "text": "<p>🌸 <strong>Craque pour nos bijoux en acier inoxydable !</strong></p>",
             "color": "#000000",
             "color_mb": "#000000",
-            "enable_border_bottom": true
+            "enable_border_bottom": false
           }
         }
       },
@@ -27,7 +27,7 @@
       ],
       "name": "t:sections.marquee.presets.name",
       "settings": {
-        "mq_background": "",
+        "mq_background": "#fee1ed",
         "mq_gradient": "",
         "type_tab_font": "font_2",
         "text_size": 12,
