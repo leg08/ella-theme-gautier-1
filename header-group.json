@@ -1,0 +1,80 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "2 ACHETÉS = 1 OFFERT",
+            "url": ""
+          }
+        },
+        "message_jkKdw4": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON OFFERTE PENDANT 24H",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message",
+        "message_jkKdw4"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "text_size": "text-xs",
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 10,
+        "background": "#1a1a1a",
+        "background_gradient": "linear-gradient(67deg, rgba(56, 78, 197, 1) 16%, rgba(255, 255, 255, 1) 52%, rgba(255, 104, 104, 1) 87%)",
+        "text_color": "#000000"
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        "div {font-size: 15px; font-family: \"Poppins\";}"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "hide_on_scroll": false,
+        "logo": "shopify://shop_images/test_d25b9a65-0786-4ae8-b16b-aa1582d8d738.png",
+        "logo_max_width": 75,
+        "logo_mobile_max_width": 35,
+        "menu": "nouveaux-menu-complet",
+        "sidebar_menu": "nouveaux-menu-complet",
+        "secondary_menu": "",
+        "menu_open_trigger": "click",
+        "opening_from": "bottom",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
+        "transparent_header_text_color": "#000000",
+        "transparent_logo": "shopify://shop_images/test_d25b9a65-0786-4ae8-b16b-aa1582d8d738.png",
+        "reduce_padding": true,
+        "background_opacity": 80,
+        "background_blur_radius": 16
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
