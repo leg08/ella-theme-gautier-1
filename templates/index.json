@@ -9,102 +9,40 @@
  */
 {
   "sections": {
-    "customer_review_block_pJnejq": {
-      "type": "customer-review-block",
+    "marquee_jehtWe": {
+      "type": "marquee",
       "blocks": {
-        "review_CfaHan": {
-          "type": "review",
+        "marquee_EageFK": {
+          "type": "marquee",
           "settings": {
-            "heading": "Awesome...",
-            "sub_heading": "",
-            "rating": "star5",
-            "name": "",
-            "date": "Wednesday, Jan 26, 2019",
-            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
-          }
-        },
-        "review_YQaa8T": {
-          "type": "review",
-          "settings": {
-            "heading": "Awesome...",
-            "sub_heading": "",
-            "rating": "star5",
-            "name": "",
-            "date": "Wednesday, Jan 26, 2019",
-            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
-          }
-        },
-        "review_tHYy3x": {
-          "type": "review",
-          "settings": {
-            "heading": "Awesome...",
-            "sub_heading": "",
-            "rating": "star5",
-            "name": "",
-            "date": "Wednesday, Jan 26, 2019",
-            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
+            "text": "<p>🌸 <strong>Craque pour nos bijoux en acier inoxydable !</strong></p>",
+            "color": "#000000",
+            "color_mb": "#000000",
+            "enable_border_bottom": true
           }
         }
       },
       "block_order": [
-        "review_CfaHan",
-        "review_YQaa8T",
-        "review_tHYy3x"
+        "marquee_EageFK"
       ],
+      "name": "t:sections.marquee.presets.name",
       "settings": {
-        "container": "container",
-        "padding_full_width": 0,
-        "section_style": "style_1",
-        "review_bg": "#fafafa",
-        "review_bg_gradient": "",
-        "enable_heading_style_2": false,
-        "review_title": "Top Reviews",
-        "color_title": "#232323",
-        "mg_bottom_title": 18,
-        "fontsize_title": 16,
-        "fontsize_title_mb": 16,
-        "review_des": "",
-        "color_des": "#3c3c3c",
-        "margin_bottom_des": 35,
-        "fontsize_des": 16,
-        "title_align": "center",
-        "block_layout_style": "layout2",
-        "review_rows": "1",
-        "show_arrow": true,
-        "center_mode": false,
-        "avatar_margin_bottom": 10,
-        "color_heading": "#202020",
-        "fontsize_heading": 20,
-        "heading_margin_bottom": 14,
-        "heading_font_weight": "400",
-        "color_sub_heading": "#808080",
-        "fontsize_sub_heading": 13,
-        "sub_heading_margin_bottom": 20,
-        "color_name": "#202020",
-        "fontsize_name": 14,
-        "name_margin_bottom": 0,
-        "color_date": "#808080",
-        "fontsize_date": 13,
-        "color_body": "#202020",
-        "fontsize_body": 16,
-        "body_margin_bottom": 24,
-        "color_icon": "#ffffff",
-        "bg_color_icon": "#cbcbcb",
-        "star_font_size": 25,
-        "star_margin_bottom": 0,
-        "show_avatar": true,
-        "start_position": "below_title",
-        "star_color": "",
-        "scroll_height": 4,
-        "scroll_track_bg": "#f1f1f1",
-        "scroll_thumb_color": "#000000",
-        "scroll_thumb_hover_color": "#444444",
-        "mg_top_desktop": 0,
-        "mg_top_tablet": 50,
-        "mg_top_mobile": 50,
-        "mg_bottom_desktop": 0,
-        "mg_bottom_tablet": 50,
-        "mg_bottom_mobile": 50
+        "mq_background": "",
+        "mq_gradient": "",
+        "type_tab_font": "font_2",
+        "text_size": 12,
+        "text_font_weight": "400",
+        "gap_blocks": 20,
+        "border": "none",
+        "border_color": "#ffffff",
+        "icon": "thunder",
+        "icon_color": "#ffffff",
+        "text_size_mb": 30,
+        "border_color_mb": "#ffffff",
+        "icon_color_mb": "#ffffff",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "minus_spacing_top": 0
       }
     },
     "custom_image_banner_PY8wDj": {
@@ -959,7 +897,7 @@
     }
   },
   "order": [
-    "customer_review_block_pJnejq",
+    "marquee_jehtWe",
     "custom_image_banner_PY8wDj",
     "custom_image_banner_gtfTqF",
     "instagram_3P8KCE",
