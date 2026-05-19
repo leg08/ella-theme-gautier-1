@@ -12,10 +12,19 @@
     "marquee_jehtWe": {
       "type": "marquee",
       "blocks": {
+        "marquee_CDzdNr": {
+          "type": "marquee",
+          "settings": {
+            "text": "<p><strong>-10% avec le code : JEWELS10 dès 99 d'achats</strong></p>",
+            "color": "#000000",
+            "color_mb": "#000000",
+            "enable_border_bottom": false
+          }
+        },
         "marquee_EageFK": {
           "type": "marquee",
           "settings": {
-            "text": "<p>🌸 <strong>Craque pour nos bijoux en acier inoxydable !</strong></p>",
+            "text": "<p>🌸 <strong>Un bijou offert dans chaque commande</strong></p>",
             "color": "#000000",
             "color_mb": "#000000",
             "enable_border_bottom": false
@@ -23,6 +32,7 @@
         }
       },
       "block_order": [
+        "marquee_CDzdNr",
         "marquee_EageFK"
       ],
       "name": "t:sections.marquee.presets.name",
