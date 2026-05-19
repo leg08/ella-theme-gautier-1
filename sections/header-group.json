@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "LIVRAISON OFFERTE DES 65€ D'ACHAT🌸",
+            "text": "LIVRAISON OFFERTE DES 50€ D'ACHAT CODE : PINK🌸",
             "btn_color": "#cc0e14",
             "btn_border_color": "#2da116",
             "btn_bg_color": "#727272",
@@ -161,6 +161,7 @@
         "550fbd21-75fb-4051-9dee-77d91b5239f0": {
           "type": "logo",
           "settings": {
+            "logo_mobile": "shopify://shop_images/3_f6bbb88a-1095-409b-846c-70619efe6a7e.png",
             "logo_width_mobile": 65,
             "logo_text": "",
             "logo_font_size": 20,
@@ -194,7 +195,7 @@
         "633f9dae-3f65-4bda-9ca8-9d3e231aaf9d"
       ],
       "settings": {
-        "background": "#ffffff",
+        "background": "#d92968",
         "gradient": "",
         "sticky_header_type": "on_scroll",
         "enable_transparent": false,
@@ -210,7 +211,8 @@
         "image_NW9yAN": {
           "type": "image",
           "settings": {
-            "image_slide": "shopify://shop_images/Green_Minimalist_Elegant_Jewelry_Logo_1920_x_800_px.png",
+            "image_slide": "shopify://shop_images/Lena_4_ea84696a-1442-46c3-975f-f874d442cd50.png",
+            "image_slide_mb": "shopify://shop_images/Lena_4_ea84696a-1442-46c3-975f-f874d442cd50.png",
             "alignment": "left",
             "enable_custom_position": false,
             "custom_horizontal": "",
@@ -218,7 +220,7 @@
             "enable_position_outside_image": false,
             "text_alignment": "center",
             "enable_border_line": false,
-            "padding_vertical": 30,
+            "padding_vertical": 25,
             "content_width": 475,
             "enable_content_fullwidth": false,
             "bg_color_content": "",
@@ -312,7 +314,7 @@
         "padding_full_width": 0,
         "slideshow_background": "",
         "slideshow_background_gradient": "",
-        "autoplay": true,
+        "autoplay": false,
         "slideshow_speed": "5000",
         "slideshow_transition": "false",
         "dots": "shape",
